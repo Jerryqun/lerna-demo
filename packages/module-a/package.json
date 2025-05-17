@@ -5,6 +5,9 @@
   "author": "cq <wb-zcq621102@alibaba-inc.com>",
   "homepage": "https://github.com/Jerryqun/lerna-demo#readme",
   "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.0.0"
+  },
   "main": "lib/module-a.js",
   "directories": {
     "lib": "lib",
